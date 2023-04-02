@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css" ?>
+<employees>
+    <employee name="mayar">
+        <email>
+            mayar@gmail.com
+        </email>
+        <phones>
+            <phone type="home">
+                012xxxxxxxx
+            </phone>
+            <phone type="work">
+                010xxxxxxxx
+            </phone>
+            <phone type="mobile">
+                015xxxxxxxx
+            </phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>fouad</street>
+                <buildingNum>12</buildingNum>
+                <region>gleem</region>
+                <city>alex</city>
+                <country>egypt</country>
+            </address>
+            <address>
+                <street>rostom</street>
+                <buildingNum>10</buildingNum>
+                <region>el shatby</region>
+                <city>cairo</city>
+                <country>egypt</country>
+            </address>
+        </addresses>
+    </employee>
+    <employee name="asmaa">
+        <email>
+            asmaa@gmail.com
+        </email>
+        <phones>
+            <phone type="home">
+                012xxxxxxxx
+            </phone>
+            <phone type="work">
+                010xxxxxxxx
+            </phone>
+            <phone type="mobile">
+                015xxxxxxxx
+            </phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>el nasr</street>
+                <buildingNum>3</buildingNum>
+                <region>smouha</region>
+                <city>alex</city>
+                <country>egypt</country>
+            </address>
+            <address>
+                <street>khaled ebn el waleed</street>
+                <buildingNum>5</buildingNum>
+                <region>shobra</region>
+                <city>cairo</city>
+                <country>egypt</country>
+            </address>
+        </addresses>
+    </employee>
+    <employee name="ashraf">
+        <email>
+            ashraf@gmail.com
+        </email>
+        <phones>
+            <phone type="home">
+                012xxxxxxxx
+            </phone>
+            <phone type="work">
+                011xxxxxxxx
+            </phone>
+            <phone type="mobile">
+                015xxxxxxxx
+            </phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>gamal abd el naser</street>
+                <buildingNum>8</buildingNum>
+                <region>sedibishr</region>
+                <city>alex</city>
+                <country>egypt</country>
+            </address>
+            <address>
+                <street>safya zaghlool</street>
+                <buildingNum>7</buildingNum>
+                <region>el haram</region>
+                <city>cairo</city>
+                <country>egypt</country>
+            </address>
+        </addresses>
+    </employee>
+</employees>
