@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM 'employees.dtd'>
+
+<employees>
+  <employee>
+    <name>Mayar</name>
+    <phones>
+      <phone type="Work">011xxxxxxxx</phone>
+      <phone type="Mobile">015xxxxxxxx</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>gleem</region>
+        <buildingNumber>7</buildingNumber>
+        <street>7th st.</street>
+      </address>
+    </addresses>
+    <email>mayar@gmail.com</email>
+  </employee>
+
+</employees>
