@@ -5,7 +5,6 @@
   <employee>
     <name>Mayar</name>
     <phones>
-      <phone type="Work">011xxxxxxxx</phone>
       <phone type="Mobile">015xxxxxxxx</phone>
     </phones>
     <addresses>
